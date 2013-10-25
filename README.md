@@ -32,6 +32,8 @@ Semtiment analysis of UGC text in social media has lead us to mood mapping appli
 
 Let's consider a tweet, 140 characters of content but encased in a complex skeleton of data.  
 
+![Tweet Metadata](https://raw.github.com/auremoser/metadater/master/Imgs/tweet-map.png)
+
 This could tell a participant when you created your account, when you entered the realm of social media. It could tell them about your behavioral habits to reply_to_user_ids often, and your frequency of "favourites_count"s which could reveal your social support for friends, your engagement with others online, your openness to collaboration and relationships. It could speak to your propensity for posting cat videos at 2am EST, and the status of your privacy settings (and by syllogism your private life). It could speak to your chosen language of preference, potentially linked to your ethnic heritage; it could compose GeoJSON tags or place_ids about your location or place_type for proximity to other participants. Depending on the trucation of your messages (truncated=>true) it could tell if you tweet from a mobile device, if you're often mobile and where you go (ge_enables=>true).  
 
 When mapped to some content and keyword clusters, it could paint a pretty thorough picture of your online patterns.
