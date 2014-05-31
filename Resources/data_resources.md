@@ -2,13 +2,13 @@ resources
 ==========
 
 ##Data Resources
-####Public data sources  
+####Public data sources
 
 * [Public Data](http://publicdata.com)
-  
+
 * [Demo Site](http://demo.publicdata.com>)
 
-####Background checks ($20 each)  
+####Background checks ($20 each)
 
 * [Credit Check Helper](http://www.experian.com/connect/credit-check/how-to-run-a-credit-check-on-a-customer.html)
 
@@ -24,3 +24,4 @@ resources
 
 * [NotMuch](http://notmuchmail.org/)
 * [Immersion](https://immersion.media.mit.edu/)
+* [How Couples Meet and Stay Together 2009-2011](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103?q=&paging.rows=25&sortBy=10)
